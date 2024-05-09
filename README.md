@@ -7,7 +7,7 @@ I'm Ruby on Rails Developer
 I worked as a Full-Stack developer for about 2 years, but for personal reasons I had to leave this profession for a while. I have now returned as a Ruby on Rails developer, having completed the corresponding advanced course at Hexlet.
 
 * 🌍  I'm based in Cherkessk, but I'm going to move to Moscow
-* ✉️  You can contact me at [nory.baichorov@gmail.com](mailto:nory.baichorov@gmail.com)
+* ✉️  You can contact me at [nory.baichorov@gmail.com](mailto:nory.baichorov@gmail.com) or you can write to me via telegram [@baichor_baichorov](https://t.me/baichor_baichorov)
 * 🧠  I'm learning Ruby on Rails and related tools (Postgresql, Capistrano, Docker, etc.)
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  In the future, I plan to learn one of the frontend frameworks (Angular / Vue)
