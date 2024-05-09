@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 I'm Ruby on Rails Developer
 -----------------------
 
-I worked as a Full-Stack developer for about 2 years, but for personal reasons I had to leave this profession for a while. I am now back as a Ruby on Rails developer, having completed an advanced course on Hexlet, reading various articles along the way.
+I worked as a Full-Stack developer for about 2 years, but for personal reasons I had to leave this profession for a while. I have now returned as a Ruby on Rails developer, having completed the corresponding advanced course at Hexlet.
 
 * 🌍  I'm based in Cherkessk, but I'm going to move to Moscow
 * ✉️  You can contact me at [nory.baichorov@gmail.com](mailto:nory.baichorov@gmail.com)
