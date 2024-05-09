@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nory Baichorov
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nory Baichorov
 ======================================================================================================================================
 
-Ruby on Rails Developer
+I'm Ruby on Rails Developer
 -----------------------
 
 I worked as a Full-Stack developer for about 2 years, but for personal reasons I had to leave this profession for a while. I am now back as a Ruby on Rails developer, having completed an advanced course on Hexlet, reading various articles along the way.
