@@ -4,7 +4,7 @@ Hi! 👋 My name is Nory Baichorov
 I'm Ruby on Rails Developer
 -----------------------
 
-I worked as a Full-Stack developer for about 2 years, but for personal reasons I had to leave this profession for a while. I have now returned as a Ruby on Rails developer, having completed the corresponding advanced course at Hexlet.
+I have been working as a web developer for about 2 years. I used to be a frontend developer, now I'm a backend developer on Ruby on Rails. I also took a course for advanced Ruby on Rails developers on the Hexlet.
 
 * 🌍  I'm based in Cherkessk, but I'm going to move to Moscow
 * ✉️  You can contact me at [nory.baichorov@gmail.com](mailto:nory.baichorov@gmail.com) or you can write to me via telegram [@baichor_baichorov](https://t.me/baichor_baichorov)
