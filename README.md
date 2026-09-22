@@ -1,4 +1,4 @@
-Hi 👋 My name is Nory Baichorov
+Hi 👋 My name is Norii Baichorov
 ===============================
 
 Ruby on Rails Developer
